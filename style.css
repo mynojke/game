@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 20px auto;
+    line-height: 1.6;
+}
+button {
+    margin: 5px;
+    padding: 10px 20px;
+}
+#options button {
+    display: block;
+}
